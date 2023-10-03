@@ -1,3 +1,4 @@
+#G. Thambiraj, U. Gandhi, U. Mangalanathan, V. J. M. Jose, and M. Anand, “Investigation on the effect of womersley number, ecg and ppg features for cuff less blood pressure estimation using machine learning,” Biomedical Signal Processing and Control, vol. 60, p. 101942, 2020.
 import numpy as np
 from matplotlib import pyplot as plt
 

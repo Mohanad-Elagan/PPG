@@ -1,3 +1,4 @@
+#M. Awad and R. Khanna, “Support vector regression,” in Efficient learning machines. Springer, 2015, pp. 67–80.
 import pandas as pd 
 import pandas as pd                    
 import matplotlib.pyplot as plt       

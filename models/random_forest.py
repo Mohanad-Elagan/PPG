@@ -1,3 +1,6 @@
+#H. Wang, “Random forest based blood pressure prediction model from ecg and ppg signal,” in 2022 12th International Conference on Bioscience, Biochemistry and Bioinformatics, 2022, pp. 1–6.
+#S. Janitza, G. Tutz, and A.-L. Boulesteix, “Random forest for ordinal responses: prediction and variable selection,” Computational Statistics & Data Analysis, vol. 96, pp. 57–73, 2016.
+#H. Han, X. Guo, and H. Yu, “Variable selection using mean decrease accuracy and mean decrease gini based on random forest,” in 2016 7th ieee international conference on software engineering and service science (icsess). IEEE, 2016, pp. 219–224.
 import numpy as np
 from sklearn.model_selection import train_test_split 
 from sklearn.ensemble import RandomForestRegressor
